@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Ninth Path",
+    "description": "Back up sessions, workspaces and workspace files to a non-system drive, then restore them on a new client with one prompt."
+  }
+}
